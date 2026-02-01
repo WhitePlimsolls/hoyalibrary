@@ -34,11 +34,16 @@ features:
     details: Docker 容器化部署、Nginx 配置、Node.js 服务端开发。
     link: /server/
     icon: 🛠️
+
+  - title: 🌐 网络服务
+    details: 网络服务及协议相关
+    link: /networking/
+    icon: 🌐
 ---
 
-## 最近更新
+## 其他说明
 
-> 这里可以写一些普通的 Markdown 内容，比如“最近的学习计划”或者“本站公告”。
+> 本站公告
 
-- [2024-01-28] 初始化博客，搭建 VitePress
-- [2024-01-29] 更新了 Swift 并发编程笔记
+- 记录一些个人技术知识
+- 保持初心，坚持

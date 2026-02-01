@@ -8,10 +8,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
       { text: 'iOS', link: '/ios/swift/basic' },
       { text: 'Flutter', link: '/flutter/dart-basics' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Networking', link: '/networking/VLESS-REALITY' }
     ],
 
     sidebar: {
@@ -43,6 +42,22 @@ export default defineConfig({
         },
         {
           text: 'UI 组件',
+          items: [
+            { text: '常用 Widget', link: '/flutter/widget' }
+          ]
+        }
+      ],
+
+
+      '/networking/': [
+        {
+          text: '科学上网',
+          items: [
+            { text: 'VLESS + REALITY', link: '/networking/VLESS-REALITY' }
+          ]
+        },
+        {
+          text: 'Others',
           items: [
             { text: '常用 Widget', link: '/flutter/widget' }
           ]
