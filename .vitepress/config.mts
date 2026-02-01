@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/hoyalibrary/',
-  title: "Hoya's Blog",
-  description: "Hoya's Blog",
+  title: "Hoya's Library",
+  description: "Hoya's Library",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

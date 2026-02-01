@@ -4,7 +4,7 @@ layout: home
 
 # 2. Hero 区域 (最显眼的大标题部分)
 hero:
-  name: "Hoya的知识库"
+  name: "Hoya's Library"
   text: "积累技术，沉淀价值"
   tagline: "iOS 原生 / Flutter 跨平台 / 后端服务"
   image:
