@@ -20,7 +20,7 @@ title: SSH连接手机
 
 ### 二、使用公钥登录手机
 
-1. 进入电脑的 `.ssh` 文件夹下，如果没有公钥可以参考 [SSH公钥连接服务器](../Server/1-ssh公钥连接服务器.md)
+1. 进入电脑的 `.ssh` 文件夹下，如果没有公钥可以参考 [SSH公钥连接服务器](../server/ssh-public-key-login.md)
 
     ```sh
     cd ~/.ssh
