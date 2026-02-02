@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: "快速开始"
-      link: /ios/swift/basic
+      link: /library/ios/swift/basic
     - theme: alt
       text: "访问 GitHub"
       link: https://github.com/yourname
@@ -22,22 +22,22 @@ hero:
 features:
   - title: 🍎 iOS 开发
     details: Swift 语法精讲、Runtime 深入解析、UIKit 与 SwiftUI 实战笔记。
-    link: /ios/ # 点击跳转到 iOS 目录
+    link: /library/ios/index # 点击跳转到 iOS 目录
     icon: 📱 # 支持 emoji 或 SVG 图标
 
   - title: 💙 Flutter
     details: Dart 语言基础、Widget 组件库、状态管理与跨平台架构。
-    link: /flutter/
+    link: /library/flutter/environment-setup
     icon: 🦋
 
   - title: 🖥️ 后端 & 运维
     details: Docker 容器化部署、Nginx 配置、Node.js 服务端开发。
-    link: /server/
+    link: /library/server/ssh-public-key-login
     icon: 🛠️
 
   - title: 🌐 网络服务
     details: 网络服务及协议相关
-    link: /networking/
+    link: /library/networking/vless-reality
     icon: 🌐
 ---
 
