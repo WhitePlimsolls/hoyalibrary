@@ -75,7 +75,8 @@ export default defineConfig({
       { text: 'Networking', link: '/library/networking/vless-reality' },
       { text: 'Jailbreak', link: '/library/jailbreak/index' },
       { text: 'company', link: '/library/company/tax-filing' },
-      { text: 'photoshop', link: '/library/photoshop/index' }
+      { text: 'photoshop', link: '/library/photoshop/index' },
+      { text: 'explore', link: '/library/explore/index' }
     ],
 
     // Dynamically generated sidebar
