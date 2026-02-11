@@ -70,13 +70,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'iOS', link: '/library/ios/index' },
-      { text: 'Flutter', link: '/library/flutter/environment-setup' },
-      { text: 'Server', link: '/library/server/ssh-public-key-login' },
-      { text: 'Networking', link: '/library/networking/vless-reality' },
+      { text: 'Flutter', link: '/library/flutter/index' },
+      { text: 'Server', link: '/library/server/index' },
+      { text: 'Networking', link: '/library/networking/index' },
       { text: 'Jailbreak', link: '/library/jailbreak/index' },
-      { text: 'company', link: '/library/company/tax-filing' },
-      { text: 'photoshop', link: '/library/photoshop/index' },
-      { text: 'explore', link: '/library/explore/index' }
+      { text: 'Company', link: '/library/company/index' },
+      { text: 'Photoshop', link: '/library/photoshop/index' },
+      { text: 'Explore', link: '/library/explore/index' }
     ],
 
     // Dynamically generated sidebar
