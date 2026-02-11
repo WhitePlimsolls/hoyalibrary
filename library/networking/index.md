@@ -13,8 +13,4 @@ title: Networking
 2. [Mitmproxy 服务器环境配置](./mitmproxy/server-setup.md)
    - pyenv 和 Python 环境配置
 
-## 科学上网
 
-1. [科学上网](./proxy/index.md)
-   - 代理服务搭建（VLESS + REALITY）
-   - 资源站点与客户端工具
