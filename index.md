@@ -27,17 +27,17 @@ features:
 
   - title: 💙 Flutter
     details: Dart 语言基础、Widget 组件库、状态管理与跨平台架构。
-    link: /library/flutter/environment-setup
+    link: /library/flutter/index
     icon: 🦋
 
   - title: 🖥️ 后端 & 运维
     details: Docker 容器化部署、Nginx 配置、Node.js 服务端开发。
-    link: /library/server/ssh-public-key-login
+    link: /library/server/index
     icon: 🛠️
 
   - title: 🌐 网络服务
     details: 网络服务及协议相关
-    link: /library/networking/vless-reality
+    link: /library/networking/index
     icon: 🌐
 ---
 
