@@ -7,9 +7,9 @@ hero:
   name: "Hoya's Library"
   text: "积累技术，沉淀价值"
   tagline: "iOS 原生 / Flutter 跨平台 / 后端服务"
-  image:
-    src: /logo.png # 如果你有logo，放在 public 文件夹下，这里写文件名
-    alt: Logo
+  # image:
+  #   src: /logo.png # 如果你有logo，放在 public 文件夹下，这里写文件名
+  #   alt: Logo
   actions:
     - theme: brand
       text: "快速开始"
