@@ -1,5 +1,5 @@
 ---
-title: Swift 基础
+title: Swift 基础语法
 ---
 
-# Swift 基础
+# Swift 基础语法
